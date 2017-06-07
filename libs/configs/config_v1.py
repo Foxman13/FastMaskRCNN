@@ -68,7 +68,7 @@ tf.app.flags.DEFINE_integer(
 
 # was set to 2500000 by default
 tf.app.flags.DEFINE_integer(
-    'max_iters', 25,
+    'max_iters', 2500,
     'max iterations')
 
 ######################
